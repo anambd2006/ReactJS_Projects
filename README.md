@@ -7,4 +7,4 @@ Projects with HTML, CSS, Javascript & ReactJs
 4. scrimba-business-card-app: https://scrimba-business-card-app.netlify.app/
 5. scrimba-landing-page-app: https://scrimba-landing-page-app.netlify.app/
 6. scimba-class-functional-component-app1: https://scrimba-class-funct-component-app1.netlify.app
-7. scimba-class-functional-component-app2: https://scrimba-class-funct-component-app2.netlify.app/ 
+7. scimba-class-functional-component-app2: https://scrimba-class-funct-component-app2.netlify.app/

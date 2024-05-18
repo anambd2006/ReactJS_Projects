@@ -1,0 +1,38 @@
+body{
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #262626;
+  padding: 20px;
+  color: white;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.state--title {
+  text-align: center;
+}
+
+
+.state--value {
+  background-color: white;
+  color: #262626;
+  height: 50px;
+  width: 50px;
+  align-items: center;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+
+}

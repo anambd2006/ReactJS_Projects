@@ -46,7 +46,7 @@ export default class App extends React.Component {
   render() {
       return (
           <div className="counter">
-              <button className="counter--minus" onClick={this.subtract}>–</button>
+              <button className="counter--minus" onClick={this.subtract}  disabled={this.state.count===0 ? true : false}>–</button>
               <div className="counter--count">
                   <h1>{this.state.count}</h1>
               </div>

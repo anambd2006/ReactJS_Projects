@@ -1,0 +1,41 @@
+
+main{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.card{
+  width: 200px;
+  height: 350px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px 1px rgba(120,120,120,0.44);
+  -webkit-box-shadow: 5px 5px 5px 1px rgba(120,120,120,0.44);
+  -moz-box-shadow: 5px 5px 5px 1px rgba(120,120,120,0.44);
+
+}
+
+.card-image{
+  width: 200px;
+  max-width: 100%;
+  padding-bottom: 0;
+  text-align: center;
+}
+
+.card-info{
+  padding: 5px;
+}
+
+.card-favorite{
+  width: 20px;
+
+}
+
+.card-contact{
+  font-size: 0.75rem;
+    color: gray;
+  margin-block: 7px;
+}
